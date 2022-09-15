@@ -1,0 +1,76 @@
+2020 International Conference for Emerging Technology (INCET) 
+Belgaum, India. Jun 5-7, 2020
+
+Loan Default Forecasting using Data Mining
+
+Bhoomi Patel1
+, Harshal Patil2
+, Jovita Hembram3
+, Shree Jaswal4
+1,2,3,4Department of Information Technology, St. Francis Institute of Technology, Mumbai, India 1
+bhoomi16patel98@gmail.com, 2
+harshalpatil31598@gmail.com, 3
+jovita.hembram04@gmail.com, 4
+shreejaswal@sfit.ac.in
+
+literature :
+
+proposed a model for the loan approval 
+authorities which would help them judge the credibility of customers who have applied for the loan, hence increasing 
+the chances of their loans being paid back in time. Their 
+model comprises of three components
+
+Pre-processing-which is done using K-NN and 
+Binning. 
+b) Classification - Naïve Bayes algorithm is used to 
+decide whether to sanction loan to a customer. 
+c) Database Updation: The newly found data is added for 
+further results.
+
+models used:
+a. Logistic Regression 
+b. Gradient Boosting 
+c. CatBoost Classifier 
+d. Random Forest
+
+ we can infer that Gradient Boosting 
+and CatBoost Classifier is doing prediction well for our 
+dataset. 
+
+
+
+
+-------------------------------------------------------------------------------------------------------------------
+
+references:
+
+2020 International Conference on Data Mining Workshops (ICDMW)
+
+A federated learning based approach for loan defaults prediction
+  Geet Shingi
+Dept. of Computer Engineering,
+Pune Institute of Computer Technology,
+Maharashtra, India 
+
+literature :
+
+we propose the use of a federated learning
+approach for the task in hand and to overcome the issues
+discussed previously. Firstly, the Synthetic Minority Oversampling Technique(SMOTE) [18] approach is proposed to
+overcome the class imbalance issue. Secondly, we focus on
+a default prediction system protecting data sensitivity, meanwhile, it can be shared with other banks. A decentralized
+machine learning algorithm-federated learning with the data
+
+made use of Support Vector Machines(SVM)
+for default prediction
+
+ combined
+deep learning and genetic programming to enhance the results
+in default prediction
+
+Our task is to predict a given loan application into default or
+repayable. We explain our solution by describing our approach
+for each phase of the standard default prediction pipeline- data
+preprocessing, model training, and model architecture
+
+
